@@ -1,37 +1,29 @@
-# Bultrend Financial Dashboard
+# Pet Store Financial Dashboard | Painel Financeiro Pet Store
 
-Interactive Power BI dashboard for financial analysis with Python visuals.
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Preview | Visualização do Dashboard
 
 ![Dashboard Screenshot](powerbi_image.png)
 
-## ✨ Key Features
-- **Real-time financial metrics**
-- **Interactive charts and filters** 
-- **Market trend analysis**
-- **Python-powered analytics**
-- **Automated data updates**
+## ✨ Key Features | Principais Funcionalidades
+- **Timeseries financial analysis** | **Análise financeira temporal**
+- **Interactive charts and filters** | **Gráficos e filtros interativos**
+- **Client behavior analysis** | **Análise de comportamento do cliente**
+- **Social and geographic analysis** | **Análise social e geográfica**
 
-## 🔗 Live Dashboard
+## 🔗 Live Dashboard | Dashboard Online
 **Click the link below to open the interactive dashboard in a new tab:**
+**Clique no link abaixo para abrir o dashboard interativo em uma nova aba:**
 
 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDc0NjdhZmEtZGY5MC00MWQ1LWE3OWItOWQ3MmZiZTc2YjYzIiwidCI6IjAyZGU0MmU3LTBjODUtNDNlNC1hYjIyLWQ4ZTM2MzJmMWE0NyJ9" target="_blank">View Interactive Dashboard on Power BI Service</a>
 
-*Tip: Right-click → "Open in new tab" if it doesn't open automatically*
+*Tip: Right-click → "Open in new tab"*
+*Dica: Clique com botão direito → "Abrir em nova guia"*
 
-## 📁 Files Included
-- `Bultrend-Dashboard.pbix` - Main Power BI file
-- `powerbi_image.png` - Dashboard screenshot
+## 📁 Files Included | Arquivos Incluídos
+- `Dashboard.pbix` - Main Power BI file | Arquivo principal do Power BI
+- `powerbi_image.png` - Dashboard screenshot | Captura de tela do dashboard
 
-## 🚀 Getting Started
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Configure data source connections
-4. Enable Python visuals in settings
-
-## ⚠️ Note on Python Visuals
-Python visuals require:
-- Power BI Desktop with Python installed
-- Necessary Python packages (pandas, matplotlib, etc.)
-- Local execution for full interactivity
+## 🚀 Getting Started | Como Usar
+1. Open the Power BI Dashboard in a new tab | Abra o Dashboard do Power BI em uma nova guia
+2. Start interacting with it | Comece a interagir com ele

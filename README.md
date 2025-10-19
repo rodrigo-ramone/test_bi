@@ -4,7 +4,7 @@ Interactive Power BI dashboard for financial analysis with Python visuals.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-preview.png)
+![Dashboard Screenshot](powerbi_image.png)
 
 ## ✨ Key Features
 - **Real-time financial metrics**
@@ -14,6 +14,20 @@ Interactive Power BI dashboard for financial analysis with Python visuals.
 - **Automated data updates**
 
 ## 🔗 Live Dashboard
-[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?req=7fJsHxOwUjdnkzEZGYSKC60MVQLNE3XOATxQQQNmZiZTcYYYzIziudcCEfjAyZQAOWuRJLTgjCOUNKDDINICzhYjjvLVQXTWXYzJwMBGWyJ9)
+[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZDJmYjVl)
 
-## 📁 Project Structure
+## 📁 Files Included
+- `Bultrend-Dashboard.pbix` - Main Power BI file
+- `powerbi_image.png` - Dashboard screenshot
+
+## 🚀 Getting Started
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Configure data source connections
+4. Enable Python visuals in settings
+
+## ⚠️ Note on Python Visuals
+Python visuals require:
+- Power BI Desktop with Python installed
+- Necessary Python packages (pandas, matplotlib, etc.)
+- Local execution for full interactivity

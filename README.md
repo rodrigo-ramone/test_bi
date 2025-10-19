@@ -32,7 +32,7 @@
 
 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDc0NjdhZmEtZGY5MC00MWQ1LWE3OWItOWQ3MmZiZTc2YjYzIiwidCI6IjAyZGU0MmU3LTBjODUtNDNlNC1hYjIyLWQ4ZTM2MzJmMWE0NyJ9" target="_blank">View Interactive Dashboard on Power BI Service</a>
 
-*Tip: Right-click → "Open in new tab"*
+*Tip: Right-click → "Open in new tab"* |
 *Dica: Clique com botão direito → "Abrir em nova guia"*
 
 ## 📁 Files Included | Arquivos Incluídos

@@ -5,6 +5,21 @@
 
 ![Dashboard Screenshot](powerbi_image.png)
 
+## 📊 Data Overview | Visão Geral dos Dados
+**English:** This dashboard analyzes comprehensive pet store data including:
+- **Sales Data**: Revenue, product categories
+- **Customer Information**: Demographics, purchasing behavior, location
+- **Temporal Analysis**: Monthly/quarterly sales trends, seasonal patterns
+- **Geographic Distribution**: Sales for each location and regional performance
+- **Product Performance**: Quantity sold by product , category analysis
+
+**Português:** Este dashboard analisa dados abrangentes de pet shop incluindo:
+- **Dados de Vendas**: Faturamento, categorias de produtos
+- **Informações do Cliente**: Dados demográficos, comportamento de compra, localização
+- **Análise Temporal**: Tendências de vendas mensais/trimestrais, padrões sazonais
+- **Distribuição Geográfica**: Vendas para cada Localidade e desempenho regional
+- **Desempenho de Produtos**: Quantidade vendida por produto, análise por categoria
+
 ## ✨ Key Features | Principais Funcionalidades
 - **Timeseries financial analysis** | **Análise financeira temporal**
 - **Interactive charts and filters** | **Gráficos e filtros interativos**

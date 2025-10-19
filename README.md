@@ -14,7 +14,15 @@ Interactive Power BI dashboard for financial analysis with Python visuals.
 - **Automated data updates**
 
 ## 🔗 Live Dashboard
-[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMDc0NjdhZmEtZGY5MC00MWQ1LWE3OWItOWQ3MmZiZTc2YjYzIiwidCI6IjAyZGU0MmU3LTBjODUtNDNlNC1hYjIyLWQ4ZTM2MzJmMWE0NyJ9)
+
+<script>
+function openPowerBI() {
+    window.open('[https://app.powerbi.com/view?r=eyJrIjoiZDJmYjVl](https://app.powerbi.com/view?r=eyJrIjoiMDc0NjdhZmEtZGY5MC00MWQ1LWE3OWItOWQ3MmZiZTc2YjYzIiwidCI6IjAyZGU0MmU3LTBjODUtNDNlNC1hYjIyLWQ4ZTM2MzJmMWE0NyJ9)', '_blank');
+}
+</script>
+
+<button onclick="openPowerBI()">View Interactive Dashboard on Power BI Service</button>
+
 
 ## 📁 Files Included
 - `Bultrend-Dashboard.pbix` - Main Power BI file
